@@ -1,10 +1,6 @@
 # 基于SSM的酒店管理系统
 
-## 获取方式
 
-扫描下方，回复 “**酒店3** ” ，以获取完整版的项目代码。
-
-![image-20220509000010316](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 
 
@@ -92,11 +88,6 @@
 
 ![文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208142011885.jpg)
 
-## 5、获取方式
-
-扫描下方，回复 “**酒店3** ” ，以获取完整版的项目代码。
-
-![image-20220509000010316](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 
 
